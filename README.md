@@ -1,1 +1,1 @@
-# coverletter_cli
+최유민입니다.
